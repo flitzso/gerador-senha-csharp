@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\gerador-senha-csharp\bin\Debug\net6.0\gerador-senha-csharp.exe
+C:\Users\User\Desktop\gerador-senha-csharp\bin\Debug\net6.0\gerador-senha-csharp.deps.json
+C:\Users\User\Desktop\gerador-senha-csharp\bin\Debug\net6.0\gerador-senha-csharp.runtimeconfig.json
+C:\Users\User\Desktop\gerador-senha-csharp\bin\Debug\net6.0\gerador-senha-csharp.dll
+C:\Users\User\Desktop\gerador-senha-csharp\bin\Debug\net6.0\gerador-senha-csharp.pdb
+C:\Users\User\Desktop\gerador-senha-csharp\obj\Debug\net6.0\gerador-senha-csharp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\gerador-senha-csharp\obj\Debug\net6.0\gerador-senha-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\gerador-senha-csharp\obj\Debug\net6.0\gerador-senha-csharp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\gerador-senha-csharp\obj\Debug\net6.0\gerador-senha-csharp.AssemblyInfo.cs
+C:\Users\User\Desktop\gerador-senha-csharp\obj\Debug\net6.0\gerador-senha-csharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\gerador-senha-csharp\obj\Debug\net6.0\gerador-senha-csharp.dll
+C:\Users\User\Desktop\gerador-senha-csharp\obj\Debug\net6.0\refint\gerador-senha-csharp.dll
+C:\Users\User\Desktop\gerador-senha-csharp\obj\Debug\net6.0\gerador-senha-csharp.pdb
+C:\Users\User\Desktop\gerador-senha-csharp\obj\Debug\net6.0\gerador-senha-csharp.genruntimeconfig.cache
+C:\Users\User\Desktop\gerador-senha-csharp\obj\Debug\net6.0\ref\gerador-senha-csharp.dll
